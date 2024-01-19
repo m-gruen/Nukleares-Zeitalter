@@ -1,0 +1,20 @@
+#unfaelle {
+    margin-top: 2rem;
+}
+
+#unfaelle .card .card-img-top {
+    margin-top: 1rem;
+    margin-bottom: 1rem; 
+}
+
+#generalInfo .text-center h3 {
+    margin-top: 2rem;
+}
+
+#generalInfo .text-center p {
+    margin-bottom: 2rem;
+}
+
+#generalInfo a {
+    text-decoration: none;
+}
