@@ -18,3 +18,13 @@
 #generalInfo a {
     text-decoration: none;
 }
+
+#akwCarousel {
+    width: 70%;
+}
+
+#akwCarousel .carousel-caption {
+    background-color: gray;
+    opacity: 80%;
+    border-radius: 2rem;
+}
