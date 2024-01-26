@@ -4,7 +4,7 @@
 
 #unfaelle .card .card-img-top {
     margin-top: 1rem;
-    margin-bottom: 1rem; 
+    margin-bottom: 1rem;
 }
 
 #generalInfo .text-center h3 {
@@ -24,8 +24,6 @@
 }
 
 #akwCarousel .carousel-caption {
-    background-color: gray;
-    opacity: 80%;
+    background-color: rgba(128, 128, 128, 0.8);
     border-radius: 2rem;
 }
-
