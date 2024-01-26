@@ -1,6 +1,6 @@
 #flagCarousel button>span,
 #flagCarousel .carousel-caption {
-    background-color: rgba(128, 128, 128, 0.8); 
+    background-color: rgba(128, 128, 128, 0.8);
     border-radius: 0.5rem;
 }
 
@@ -8,3 +8,6 @@
     border-radius: 2rem;
 }
 
+#flagCarousel img {
+    border: solid 1px rgba(128, 128, 128, 0.8);
+}
