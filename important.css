@@ -3,8 +3,8 @@
     margin: 0 2rem !important;
 }
 
-nav{
-    background-color: rgba(128, 128, 128, 0.8);
+nav {
+    background-color: rgb(180, 180, 180);
 }
 
 .active {
@@ -19,6 +19,8 @@ nav{
 
 #main {
     margin: 2rem 2rem !important;
+
+    margin-top: 6rem !important;
 }
 
 /* For Webkit browsers like Chrome and Safari */
