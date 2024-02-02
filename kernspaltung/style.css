@@ -27,3 +27,11 @@
     background-color: rgba(128, 128, 128, 0.8);
     border-radius: 2rem;
 }
+
+#atomkraftInGermany .container-fluid .row img {
+    margin-top: 3rem;
+}
+
+#atomkraftInGermany h3 {
+    margin-top: 3rem;
+}
